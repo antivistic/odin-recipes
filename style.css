@@ -1,0 +1,24 @@
+* {
+	font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.recipes-main-headers {
+	font-weight: bold;
+}
+
+.recipe-names {
+	font-style: italic;
+	font-size: 20px;
+}
+
+.mix {
+	background-color: #0081E0;
+}
+
+.pork {
+	background-color: pink;
+}
+
+.chicken {
+	background-color: yellow;
+}
